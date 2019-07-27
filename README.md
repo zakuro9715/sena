@@ -2,6 +2,9 @@
 
 ![sena](https://raw.githubusercontent.com/zakuro9715/sena/master/specials/most-cute/sena.png)
 
+![sena](https://raw.githubusercontent.com/zakuro9715/sena/master/specials/most-cute/sena.png)
+![sena](https://raw.githubusercontent.com/zakuro9715/sena/master/specials/glow/glow.jpg)
+
 # Photos
 
 <p align='center'>
