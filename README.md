@@ -1,8 +1,11 @@
 # Sena
 
-![sena](https://raw.githubusercontent.com/zakuro9715/sena/master/specials/most-cute/sena.png)
+## The Sena
 
 ![sena](https://raw.githubusercontent.com/zakuro9715/sena/master/specials/most-cute/sena.png)
+
+## Glow
+
 ![sena](https://raw.githubusercontent.com/zakuro9715/sena/master/specials/glow/glow.jpg)
 
 # Photos
