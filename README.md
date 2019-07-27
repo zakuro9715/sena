@@ -8,6 +8,10 @@
 
 ![sena](https://raw.githubusercontent.com/zakuro9715/sena/master/specials/glow/glow.jpg)
 
+## Hijack
+
+![sena](https://raw.githubusercontent.com/zakuro9715/sena/master/specials/hijack/hijack.png)
+
 # Photos
 
 <p align='center'>
